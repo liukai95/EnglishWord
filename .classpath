@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Images"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Desktop/pdfbox/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Desktop/pdfbox/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Desktop/pdfbox/fontbox-1.8.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Desktop/pdfbox/pdfbox-1.8.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Desktop/poi-3.14/poi-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Desktop/poi-3.14/poi-examples-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Desktop/poi-3.14/poi-excelant-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Desktop/poi-3.14/poi-ooxml-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Desktop/poi-3.14/poi-ooxml-schemas-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Desktop/poi-3.14/poi-scratchpad-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Desktop/poi-3.14/ooxml-lib/curvesapi-1.03.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Desktop/poi-3.14/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Desktop/综合实训资料/sqljdbc_3.0.1301.101_chs/sqljdbc_3.0/chs/sqljdbc4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
